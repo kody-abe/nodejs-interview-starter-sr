@@ -1,0 +1,24 @@
+{
+  "name": "nodejs-interview-starter-sr",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kody-abe/nodejs-interview-starter-sr.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kody-abe/nodejs-interview-starter-sr/issues"
+  },
+  "homepage": "https://github.com/kody-abe/nodejs-interview-starter-sr#readme",
+  "dependencies": {
+    "body-parser": "1.18.3",
+    "express": "4.16.3",
+    "lodash": "4.17.11"
+  }
+}
